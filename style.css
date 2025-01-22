@@ -1,0 +1,20 @@
+@import "/fem-css-foundations/base.css";
+
+.main {
+  padding-left: 150px;
+}
+
+.main__heading {
+  font-size: 128px;
+  font-weight: bold;
+}
+
+.main__subheading {
+  font-size: 40px;
+}
+
+.button-container {
+  display: flex;
+  align-items: center;
+  margin-top: 100px;
+}
